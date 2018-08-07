@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nath-green/state-toggler.git"
+  },  
   "keywords": [
     "toggle",
     "state",
@@ -15,5 +19,6 @@
     "attribute"
   ],
   "author": "Nathan Green <hello@nathgreen.co.uk>",
+  "homepage": "https://github.com/nath-green/state-toggler#readme",
   "license": "MIT"
 }

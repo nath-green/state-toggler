@@ -1,4 +1,5 @@
 function stateToggler (selector, options) {
+  console.log(selector)
   const defaults = {
     attr: 'data-state',
     states: ['open', 'closed']
