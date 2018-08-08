@@ -6,7 +6,7 @@ Toggle data state attribute
 
 `npm install state-toggler`
 
-`import stateToggler from 'state-toggler'` or `const stateToggler = require('state-toggler')`
+`import { stateToggler } from 'state-toggler'` or `const stateToggler = require('state-toggler')`
 
 ------
 
