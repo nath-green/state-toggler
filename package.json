@@ -1,6 +1,6 @@
 {
   "name": "state-toggler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toggle data state attribute",
   "main": "src/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nath-green/state-toggler.git"
-  },  
+  },
   "keywords": [
     "toggle",
     "state",
